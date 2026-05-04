@@ -81,6 +81,12 @@ Gym Bro is a workout coaching website that uses your webcam to analyze your work
 - **Vanilla browser JS/CSS inside the served HTML** for the UI
 
 ## Project Structure
+
+```text
+web_pose_server.py         Main local pose server with exercise coaching.
+pose_landmarker_lite.task  MediaPipe pose model used by the Python flow.
+mediapipe_handler.py       Skeleton standalone Python camera script.
+```
 ## Collaborators
 
 <table>
@@ -107,9 +113,3 @@ Gym Bro is a workout coaching website that uses your webcam to analyze your work
     </td>
   </tr>
 </table>
-
-```text
-web_pose_server.py         Main local pose server with exercise coaching.
-pose_landmarker_lite.task  MediaPipe pose model used by the Python flow.
-mediapipe_handler.py       Skeleton standalone Python camera script.
-```
