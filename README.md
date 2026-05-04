@@ -81,6 +81,32 @@ Gym Bro is a workout coaching website that uses your webcam to analyze your work
 - **Vanilla browser JS/CSS inside the served HTML** for the UI
 
 ## Project Structure
+## Collaborators
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kwiby">
+        <strong>Moxin Guo</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AndrewLu-1">
+        <strong>Andrew Lu</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jasonpark2987-sys">
+        <strong>Jason Park</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/m07liu">
+        <strong>Michael Liu</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ```text
 web_pose_server.py         Main local pose server with exercise coaching.
